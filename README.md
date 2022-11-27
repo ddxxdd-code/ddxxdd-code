@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ddxxdd-code
-- 🌱 I’m currently studying majors in Mathematics and Computer Science
+- 🌱 I’m currently in my senior year of undergrad, studying majors in Mathematics and Computer Science
 - 📫 How to reach me dedong.xie@mail.utoronto.ca
 
 <!---
