@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ddxxdd-code
-- 🌱 I’m currently entering my first year Phd at the University of Washington
+- 🌱 I’m currently a first year Phd at the University of Washington
 - 📫 How to reach me dedongx@cs.washington.edu
 
 <!---
